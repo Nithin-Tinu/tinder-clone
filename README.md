@@ -1,1 +1,1 @@
-# tinder-clone
+# tinder-app
